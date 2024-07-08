@@ -1,0 +1,931 @@
+{
+    "0": {
+        "data": [
+            {
+                "nb_parallel_requests": 1,
+                "total_time": 201.0377745628357,
+                "actual_total_time": 203.27064299583435,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 79.58703300806333
+            },
+            {
+                "nb_parallel_requests": 2,
+                "total_time": 206.37340879440308,
+                "actual_total_time": 111.30937814712524,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 146.6860283844215
+            },
+            {
+                "nb_parallel_requests": 3,
+                "total_time": 216.04409313201904,
+                "actual_total_time": 78.46071100234985,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 209.8970594037656
+            },
+            {
+                "nb_parallel_requests": 4,
+                "total_time": 220.53125405311584,
+                "actual_total_time": 60.33915305137634,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 275.3574781984868
+            },
+            {
+                "nb_parallel_requests": 6,
+                "total_time": 234.1668360233307,
+                "actual_total_time": 43.52856516838074,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 387.4495713809141
+            },
+            {
+                "nb_parallel_requests": 8,
+                "total_time": 252.45680212974548,
+                "actual_total_time": 35.486562967300415,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 481.14954515792897
+            },
+            {
+                "nb_parallel_requests": 10,
+                "total_time": 270.80843329429626,
+                "actual_total_time": 30.801280975341797,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 560.0591204108853
+            },
+            {
+                "nb_parallel_requests": 14,
+                "total_time": 299.4762988090515,
+                "actual_total_time": 24.67056107521057,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 713.0857996467641
+            },
+            {
+                "nb_parallel_requests": 18,
+                "total_time": 335.79204750061035,
+                "actual_total_time": 21.770622968673706,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 818.9272708276035
+            },
+            {
+                "nb_parallel_requests": 22,
+                "total_time": 361.30117297172546,
+                "actual_total_time": 19.569471836090088,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 922.9028101979255
+            },
+            {
+                "nb_parallel_requests": 26,
+                "total_time": 391.61435985565186,
+                "actual_total_time": 18.0767240524292,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 1009.8552009258382
+            },
+            {
+                "nb_parallel_requests": 30,
+                "total_time": 422.0917022228241,
+                "actual_total_time": 16.99702501296997,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 1083.7056565564471
+            },
+            {
+                "nb_parallel_requests": 34,
+                "total_time": 453.54282879829407,
+                "actual_total_time": 16.28004503250122,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 1139.0189257367626
+            },
+            {
+                "nb_parallel_requests": 38,
+                "total_time": 511.1883668899536,
+                "actual_total_time": 16.373584032058716,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 1131.48446328017
+            }
+        ],
+        "input_length": 32,
+        "output_length": 16
+    },
+    "1": {
+        "data": [
+            {
+                "nb_parallel_requests": 1,
+                "total_time": 303.9489188194275,
+                "actual_total_time": 306.1390838623047,
+                "total_number_of_generated_tokens": 24832,
+                "speed": 81.69793824715791
+            },
+            {
+                "nb_parallel_requests": 2,
+                "total_time": 602.0051834583282,
+                "actual_total_time": 305.49776887893677,
+                "total_number_of_generated_tokens": 48896,
+                "speed": 161.20927857261606
+            },
+            {
+                "nb_parallel_requests": 3,
+                "total_time": 899.4285023212433,
+                "actual_total_time": 305.4325931072235,
+                "total_number_of_generated_tokens": 71936,
+                "speed": 237.22274108930296
+            },
+            {
+                "nb_parallel_requests": 4,
+                "total_time": 1203.6511659622192,
+                "actual_total_time": 306.7125859260559,
+                "total_number_of_generated_tokens": 94848,
+                "speed": 311.4647510187295
+            },
+            {
+                "nb_parallel_requests": 6,
+                "total_time": 1693.4888124465942,
+                "actual_total_time": 287.2811760902405,
+                "total_number_of_generated_tokens": 128000,
+                "speed": 448.9794312691776
+            },
+            {
+                "nb_parallel_requests": 8,
+                "total_time": 1751.639206647873,
+                "actual_total_time": 222.845782995224,
+                "total_number_of_generated_tokens": 128000,
+                "speed": 580.0894678677209
+            },
+            {
+                "nb_parallel_requests": 10,
+                "total_time": 1845.5429089069366,
+                "actual_total_time": 188.11006093025208,
+                "total_number_of_generated_tokens": 128000,
+                "speed": 688.4685438805261
+            },
+            {
+                "nb_parallel_requests": 14,
+                "total_time": 1932.640741109848,
+                "actual_total_time": 142.2946629524231,
+                "total_number_of_generated_tokens": 128000,
+                "speed": 913.6037879571804
+            },
+            {
+                "nb_parallel_requests": 18,
+                "total_time": 2105.5608739852905,
+                "actual_total_time": 120.77819204330444,
+                "total_number_of_generated_tokens": 128000,
+                "speed": 1079.3669752136009
+            },
+            {
+                "nb_parallel_requests": 22,
+                "total_time": 2231.9811594486237,
+                "actual_total_time": 105.37113499641418,
+                "total_number_of_generated_tokens": 128000,
+                "speed": 1240.5388324769497
+            },
+            {
+                "nb_parallel_requests": 26,
+                "total_time": 2347.579959630966,
+                "actual_total_time": 94.11016988754272,
+                "total_number_of_generated_tokens": 128000,
+                "speed": 1392.5151572424916
+            },
+            {
+                "nb_parallel_requests": 30,
+                "total_time": 2427.7871096134186,
+                "actual_total_time": 84.88645100593567,
+                "total_number_of_generated_tokens": 128000,
+                "speed": 1547.8325115734858
+            },
+            {
+                "nb_parallel_requests": 34,
+                "total_time": 2540.05157828331,
+                "actual_total_time": 78.57375288009644,
+                "total_number_of_generated_tokens": 128000,
+                "speed": 1675.7526534728938
+            },
+            {
+                "nb_parallel_requests": 38,
+                "total_time": 2707.6043581962585,
+                "actual_total_time": 75.24442410469055,
+                "total_number_of_generated_tokens": 128000,
+                "speed": 1752.122349111712
+            }
+        ],
+        "input_length": 32,
+        "output_length": 128
+    },
+    "2": {
+        "data": [
+            {
+                "nb_parallel_requests": 1,
+                "total_time": 790.6184992790222,
+                "actual_total_time": 792.8164298534393,
+                "total_number_of_generated_tokens": 61440,
+                "speed": 77.71131089903427
+            },
+            {
+                "nb_parallel_requests": 2,
+                "total_time": 788.885728597641,
+                "actual_total_time": 397.10187816619873,
+                "total_number_of_generated_tokens": 61440,
+                "speed": 155.58213680738257
+            },
+            {
+                "nb_parallel_requests": 3,
+                "total_time": 990.4588072299957,
+                "actual_total_time": 341.2515730857849,
+                "total_number_of_generated_tokens": 74752,
+                "speed": 220.47248761674552
+            },
+            {
+                "nb_parallel_requests": 4,
+                "total_time": 1282.3401958942413,
+                "actual_total_time": 332.77530908584595,
+                "total_number_of_generated_tokens": 95232,
+                "speed": 288.07778810765666
+            },
+            {
+                "nb_parallel_requests": 6,
+                "total_time": 1943.0348315238953,
+                "actual_total_time": 337.03938603401184,
+                "total_number_of_generated_tokens": 136192,
+                "speed": 406.7357783195225
+            },
+            {
+                "nb_parallel_requests": 8,
+                "total_time": 2620.2726373672485,
+                "actual_total_time": 341.2848711013794,
+                "total_number_of_generated_tokens": 173056,
+                "speed": 510.35878801778733
+            },
+            {
+                "nb_parallel_requests": 10,
+                "total_time": 3263.0499818325043,
+                "actual_total_time": 340.32859992980957,
+                "total_number_of_generated_tokens": 205824,
+                "speed": 608.7114203286557
+            },
+            {
+                "nb_parallel_requests": 14,
+                "total_time": 4537.771113872528,
+                "actual_total_time": 338.5527789592743,
+                "total_number_of_generated_tokens": 259072,
+                "speed": 770.2341775182912
+            },
+            {
+                "nb_parallel_requests": 18,
+                "total_time": 5855.572013378143,
+                "actual_total_time": 339.98733496665955,
+                "total_number_of_generated_tokens": 295936,
+                "speed": 876.0961597728444
+            },
+            {
+                "nb_parallel_requests": 22,
+                "total_time": 7108.85343003273,
+                "actual_total_time": 338.18393301963806,
+                "total_number_of_generated_tokens": 338944,
+                "speed": 1008.803930917513
+            },
+            {
+                "nb_parallel_requests": 26,
+                "total_time": 8909.34692955017,
+                "actual_total_time": 357.48021388053894,
+                "total_number_of_generated_tokens": 400384,
+                "speed": 1126.9461462423028
+            },
+            {
+                "nb_parallel_requests": 30,
+                "total_time": 10245.042113780975,
+                "actual_total_time": 356.4407329559326,
+                "total_number_of_generated_tokens": 431104,
+                "speed": 1216.9732090581924
+            },
+            {
+                "nb_parallel_requests": 34,
+                "total_time": 11485.961604356766,
+                "actual_total_time": 353.05479192733765,
+                "total_number_of_generated_tokens": 453632,
+                "speed": 1292.9261187903628
+            },
+            {
+                "nb_parallel_requests": 38,
+                "total_time": 12632.638263463974,
+                "actual_total_time": 347.38972997665405,
+                "total_number_of_generated_tokens": 467968,
+                "speed": 1355.6753109731246
+            }
+        ],
+        "input_length": 32,
+        "output_length": 1024
+    },
+    "3": {
+        "data": [
+            {
+                "nb_parallel_requests": 1,
+                "total_time": 294.1454029083252,
+                "actual_total_time": 296.3851959705353,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 54.39486676249922
+            },
+            {
+                "nb_parallel_requests": 2,
+                "total_time": 375.7145597934723,
+                "actual_total_time": 195.96971797943115,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 82.58920250362274
+            },
+            {
+                "nb_parallel_requests": 3,
+                "total_time": 455.5816020965576,
+                "actual_total_time": 158.38562607765198,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 102.46831241675015
+            },
+            {
+                "nb_parallel_requests": 4,
+                "total_time": 533.40953373909,
+                "actual_total_time": 138.5867898464203,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 117.34765251428622
+            },
+            {
+                "nb_parallel_requests": 6,
+                "total_time": 699.3509213924408,
+                "actual_total_time": 121.09811305999756,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 134.61405142103504
+            },
+            {
+                "nb_parallel_requests": 8,
+                "total_time": 865.1225483417511,
+                "actual_total_time": 111.99796485900879,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 145.77502283494366
+            },
+            {
+                "nb_parallel_requests": 10,
+                "total_time": 1033.2153995037079,
+                "actual_total_time": 106.77069616317749,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 153.06478300053953
+            },
+            {
+                "nb_parallel_requests": 14,
+                "total_time": 1369.274893283844,
+                "actual_total_time": 101.37522983551025,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 161.39536497517332
+            },
+            {
+                "nb_parallel_requests": 18,
+                "total_time": 1690.6352806091309,
+                "actual_total_time": 97.44408106803894,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 168.05965713456524
+            },
+            {
+                "nb_parallel_requests": 22,
+                "total_time": 2041.3490433692932,
+                "actual_total_time": 96.28835701942444,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 170.12487301006428
+            },
+            {
+                "nb_parallel_requests": 26,
+                "total_time": 2363.7112004756927,
+                "actual_total_time": 94.47208714485168,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 173.47503018480433
+            },
+            {
+                "nb_parallel_requests": 30,
+                "total_time": 2713.3930089473724,
+                "actual_total_time": 93.97862601280212,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 174.40814849494706
+            },
+            {
+                "nb_parallel_requests": 34,
+                "total_time": 3038.8417892456055,
+                "actual_total_time": 92.9266848564148,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 176.43123149824913
+            },
+            {
+                "nb_parallel_requests": 38,
+                "total_time": 3362.843259334564,
+                "actual_total_time": 92.09475588798523,
+                "total_number_of_generated_tokens": 16000,
+                "speed": 178.06473339734504
+            }
+        ],
+        "input_length": 1024,
+        "output_length": 16
+    },
+    "4": {
+        "data": [
+            {
+                "nb_parallel_requests": 1,
+                "total_time": 305.13510847091675,
+                "actual_total_time": 307.32148599624634,
+                "total_number_of_generated_tokens": 21248,
+                "speed": 69.63472707705546
+            },
+            {
+                "nb_parallel_requests": 2,
+                "total_time": 605.5949454307556,
+                "actual_total_time": 307.7629120349884,
+                "total_number_of_generated_tokens": 40320,
+                "speed": 131.94730434619007
+            },
+            {
+                "nb_parallel_requests": 3,
+                "total_time": 905.50172996521,
+                "actual_total_time": 307.0979149341583,
+                "total_number_of_generated_tokens": 56576,
+                "speed": 185.54889880779513
+            },
+            {
+                "nb_parallel_requests": 4,
+                "total_time": 1206.0747203826904,
+                "actual_total_time": 306.839476108551,
+                "total_number_of_generated_tokens": 71296,
+                "speed": 234.02355115230912
+            },
+            {
+                "nb_parallel_requests": 6,
+                "total_time": 1820.202989578247,
+                "actual_total_time": 308.62150502204895,
+                "total_number_of_generated_tokens": 94592,
+                "speed": 308.68523714211807
+            },
+            {
+                "nb_parallel_requests": 8,
+                "total_time": 2434.818952560425,
+                "actual_total_time": 309.49486207962036,
+                "total_number_of_generated_tokens": 110720,
+                "speed": 360.28943411889304
+            },
+            {
+                "nb_parallel_requests": 10,
+                "total_time": 3046.447719812393,
+                "actual_total_time": 309.73416209220886,
+                "total_number_of_generated_tokens": 126848,
+                "speed": 412.4497277021212
+            },
+            {
+                "nb_parallel_requests": 14,
+                "total_time": 3769.754262447357,
+                "actual_total_time": 274.0838198661804,
+                "total_number_of_generated_tokens": 128000,
+                "speed": 470.76573761785926
+            },
+            {
+                "nb_parallel_requests": 18,
+                "total_time": 4253.845313072205,
+                "actual_total_time": 240.64883399009705,
+                "total_number_of_generated_tokens": 128000,
+                "speed": 536.7721271415814
+            },
+            {
+                "nb_parallel_requests": 22,
+                "total_time": 4912.988394737244,
+                "actual_total_time": 227.88879585266113,
+                "total_number_of_generated_tokens": 128000,
+                "speed": 567.1184249978405
+            },
+            {
+                "nb_parallel_requests": 26,
+                "total_time": 5408.848163843155,
+                "actual_total_time": 212.70690393447876,
+                "total_number_of_generated_tokens": 128000,
+                "speed": 608.016720190175
+            },
+            {
+                "nb_parallel_requests": 30,
+                "total_time": 6080.451677799225,
+                "actual_total_time": 207.52642393112183,
+                "total_number_of_generated_tokens": 128000,
+                "speed": 623.3562436576393
+            },
+            {
+                "nb_parallel_requests": 34,
+                "total_time": 6727.927611589432,
+                "actual_total_time": 202.77033805847168,
+                "total_number_of_generated_tokens": 128000,
+                "speed": 638.1367665678872
+            },
+            {
+                "nb_parallel_requests": 38,
+                "total_time": 7214.677209854126,
+                "actual_total_time": 194.83886790275574,
+                "total_number_of_generated_tokens": 128000,
+                "speed": 664.4087483594672
+            }
+        ],
+        "input_length": 1024,
+        "output_length": 128
+    },
+    "5": {
+        "data": [
+            {
+                "nb_parallel_requests": 1,
+                "total_time": 863.4575085639954,
+                "actual_total_time": 865.6395289897919,
+                "total_number_of_generated_tokens": 61440,
+                "speed": 71.15578866432008
+            },
+            {
+                "nb_parallel_requests": 2,
+                "total_time": 893.0744156837463,
+                "actual_total_time": 449.1299879550934,
+                "total_number_of_generated_tokens": 61440,
+                "speed": 137.46566594683682
+            },
+            {
+                "nb_parallel_requests": 3,
+                "total_time": 991.6446311473846,
+                "actual_total_time": 342.35611295700073,
+                "total_number_of_generated_tokens": 65536,
+                "speed": 192.6542950768315
+            },
+            {
+                "nb_parallel_requests": 4,
+                "total_time": 1305.984344959259,
+                "actual_total_time": 339.50322794914246,
+                "total_number_of_generated_tokens": 82944,
+                "speed": 245.89026171519163
+            },
+            {
+                "nb_parallel_requests": 6,
+                "total_time": 2009.0443086624146,
+                "actual_total_time": 349.0016129016876,
+                "total_number_of_generated_tokens": 117760,
+                "speed": 339.5425245711457
+            },
+            {
+                "nb_parallel_requests": 8,
+                "total_time": 2628.059714078903,
+                "actual_total_time": 343.1951060295105,
+                "total_number_of_generated_tokens": 132096,
+                "speed": 387.36343435661206
+            },
+            {
+                "nb_parallel_requests": 10,
+                "total_time": 3262.3674376010895,
+                "actual_total_time": 341.25270104408264,
+                "total_number_of_generated_tokens": 154624,
+                "speed": 456.0229145087017
+            },
+            {
+                "nb_parallel_requests": 14,
+                "total_time": 4660.745776414871,
+                "actual_total_time": 348.3632559776306,
+                "total_number_of_generated_tokens": 187392,
+                "speed": 541.3118354069239
+            },
+            {
+                "nb_parallel_requests": 18,
+                "total_time": 6202.18554520607,
+                "actual_total_time": 360.4101209640503,
+                "total_number_of_generated_tokens": 222208,
+                "speed": 620.2975134170729
+            },
+            {
+                "nb_parallel_requests": 22,
+                "total_time": 7912.43198466301,
+                "actual_total_time": 375.7421190738678,
+                "total_number_of_generated_tokens": 248832,
+                "speed": 666.1096859662817
+            },
+            {
+                "nb_parallel_requests": 26,
+                "total_time": 9229.222451210022,
+                "actual_total_time": 371.06805992126465,
+                "total_number_of_generated_tokens": 267264,
+                "speed": 724.516439726322
+            },
+            {
+                "nb_parallel_requests": 30,
+                "total_time": 10719.184455871582,
+                "actual_total_time": 373.2734019756317,
+                "total_number_of_generated_tokens": 277504,
+                "speed": 747.8050253849212
+            },
+            {
+                "nb_parallel_requests": 34,
+                "total_time": 11799.610424518585,
+                "actual_total_time": 363.09504413604736,
+                "total_number_of_generated_tokens": 279552,
+                "speed": 774.5688895517128
+            },
+            {
+                "nb_parallel_requests": 38,
+                "total_time": 14262.450911045074,
+                "actual_total_time": 391.58362913131714,
+                "total_number_of_generated_tokens": 312320,
+                "speed": 802.0511292653326
+            }
+        ],
+        "input_length": 1024,
+        "output_length": 1024
+    },
+    "6": {
+        "data": [
+            {
+                "nb_parallel_requests": 1,
+                "total_time": 301.3741958141327,
+                "actual_total_time": 303.60074496269226,
+                "total_number_of_generated_tokens": 8832,
+                "speed": 29.305760488688232
+            },
+            {
+                "nb_parallel_requests": 2,
+                "total_time": 595.264242887497,
+                "actual_total_time": 304.10674691200256,
+                "total_number_of_generated_tokens": 10672,
+                "speed": 35.35177225623361
+            },
+            {
+                "nb_parallel_requests": 3,
+                "total_time": 898.7031826972961,
+                "actual_total_time": 305.0948750972748,
+                "total_number_of_generated_tokens": 11824,
+                "speed": 39.040067867652034
+            },
+            {
+                "nb_parallel_requests": 4,
+                "total_time": 1200.6850996017456,
+                "actual_total_time": 305.0746212005615,
+                "total_number_of_generated_tokens": 12368,
+                "speed": 40.83895900739396
+            },
+            {
+                "nb_parallel_requests": 6,
+                "total_time": 1814.0007092952728,
+                "actual_total_time": 306.76314401626587,
+                "total_number_of_generated_tokens": 13264,
+                "speed": 43.554699906466126
+            },
+            {
+                "nb_parallel_requests": 8,
+                "total_time": 2435.1936893463135,
+                "actual_total_time": 308.4052619934082,
+                "total_number_of_generated_tokens": 13328,
+                "speed": 43.530132699831945
+            },
+            {
+                "nb_parallel_requests": 10,
+                "total_time": 3044.914052963257,
+                "actual_total_time": 308.3273808956146,
+                "total_number_of_generated_tokens": 13616,
+                "speed": 44.482074492536874
+            },
+            {
+                "nb_parallel_requests": 14,
+                "total_time": 4292.465633153915,
+                "actual_total_time": 310.1911070346832,
+                "total_number_of_generated_tokens": 13904,
+                "speed": 45.14805241043775
+            },
+            {
+                "nb_parallel_requests": 18,
+                "total_time": 5584.066880941391,
+                "actual_total_time": 313.7408449649811,
+                "total_number_of_generated_tokens": 14416,
+                "speed": 46.27716991998176
+            },
+            {
+                "nb_parallel_requests": 22,
+                "total_time": 6839.430877447128,
+                "actual_total_time": 314.32665395736694,
+                "total_number_of_generated_tokens": 14448,
+                "speed": 46.29283930824326
+            },
+            {
+                "nb_parallel_requests": 26,
+                "total_time": 8068.023574590683,
+                "actual_total_time": 313.752907037735,
+                "total_number_of_generated_tokens": 14576,
+                "speed": 46.78897830271354
+            },
+            {
+                "nb_parallel_requests": 30,
+                "total_time": 9541.059012889862,
+                "actual_total_time": 322.80009293556213,
+                "total_number_of_generated_tokens": 15232,
+                "speed": 47.514837999609036
+            },
+            {
+                "nb_parallel_requests": 34,
+                "total_time": 10579.13348698616,
+                "actual_total_time": 316.717572927475,
+                "total_number_of_generated_tokens": 14928,
+                "speed": 47.467173532095025
+            },
+            {
+                "nb_parallel_requests": 38,
+                "total_time": 12233.954578638077,
+                "actual_total_time": 327.79795598983765,
+                "total_number_of_generated_tokens": 15488,
+                "speed": 47.5717451672612
+            }
+        ],
+        "input_length": 4096,
+        "output_length": 16
+    },
+    "7": {
+        "data": [
+            {
+                "nb_parallel_requests": 1,
+                "total_time": 305.731498003006,
+                "actual_total_time": 307.9182798862457,
+                "total_number_of_generated_tokens": 18048,
+                "speed": 59.03219039545134
+            },
+            {
+                "nb_parallel_requests": 2,
+                "total_time": 608.5104115009308,
+                "actual_total_time": 308.7850887775421,
+                "total_number_of_generated_tokens": 28544,
+                "speed": 93.09901378496635
+            },
+            {
+                "nb_parallel_requests": 3,
+                "total_time": 916.4076659679413,
+                "actual_total_time": 310.3230490684509,
+                "total_number_of_generated_tokens": 36224,
+                "speed": 117.55837873581714
+            },
+            {
+                "nb_parallel_requests": 4,
+                "total_time": 1221.7712399959564,
+                "actual_total_time": 310.2181749343872,
+                "total_number_of_generated_tokens": 40064,
+                "speed": 130.06466517309656
+            },
+            {
+                "nb_parallel_requests": 6,
+                "total_time": 1831.2051362991333,
+                "actual_total_time": 310.028107881546,
+                "total_number_of_generated_tokens": 49280,
+                "speed": 160.08247053961537
+            },
+            {
+                "nb_parallel_requests": 8,
+                "total_time": 2467.880751848221,
+                "actual_total_time": 313.2116210460663,
+                "total_number_of_generated_tokens": 50304,
+                "speed": 161.73627847666867
+            },
+            {
+                "nb_parallel_requests": 10,
+                "total_time": 3090.376177072525,
+                "actual_total_time": 313.7817940711975,
+                "total_number_of_generated_tokens": 55168,
+                "speed": 177.05033085292783
+            },
+            {
+                "nb_parallel_requests": 14,
+                "total_time": 4395.99151468277,
+                "actual_total_time": 318.645210981369,
+                "total_number_of_generated_tokens": 59264,
+                "speed": 187.27262272297722
+            },
+            {
+                "nb_parallel_requests": 18,
+                "total_time": 5749.790908813477,
+                "actual_total_time": 324.10681986808777,
+                "total_number_of_generated_tokens": 64640,
+                "speed": 200.79520493546426
+            },
+            {
+                "nb_parallel_requests": 22,
+                "total_time": 6968.318350791931,
+                "actual_total_time": 321.4540798664093,
+                "total_number_of_generated_tokens": 64896,
+                "speed": 203.26541556229492
+            },
+            {
+                "nb_parallel_requests": 26,
+                "total_time": 8575.915363788605,
+                "actual_total_time": 334.48602199554443,
+                "total_number_of_generated_tokens": 70016,
+                "speed": 210.7016554607143
+            },
+            {
+                "nb_parallel_requests": 30,
+                "total_time": 9785.503228902817,
+                "actual_total_time": 333.27986693382263,
+                "total_number_of_generated_tokens": 69632,
+                "speed": 210.3094360589317
+            },
+            {
+                "nb_parallel_requests": 34,
+                "total_time": 11195.6973798275,
+                "actual_total_time": 337.22812700271606,
+                "total_number_of_generated_tokens": 70656,
+                "speed": 210.887405477685
+            },
+            {
+                "nb_parallel_requests": 38,
+                "total_time": 12694.970612287521,
+                "actual_total_time": 342.25134801864624,
+                "total_number_of_generated_tokens": 71680,
+                "speed": 210.78350154087664
+            }
+        ],
+        "input_length": 4096,
+        "output_length": 128
+    },
+    "8": {
+        "data": [
+            {
+                "nb_parallel_requests": 1,
+                "total_time": 910.6037864685059,
+                "actual_total_time": 912.7916870117188,
+                "total_number_of_generated_tokens": 61440,
+                "speed": 67.4717159240859
+            },
+            {
+                "nb_parallel_requests": 2,
+                "total_time": 1059.0715544223785,
+                "actual_total_time": 532.1213319301605,
+                "total_number_of_generated_tokens": 61440,
+                "speed": 115.93909038574628
+            },
+            {
+                "nb_parallel_requests": 3,
+                "total_time": 1190.3957266807556,
+                "actual_total_time": 399.35700392723083,
+                "total_number_of_generated_tokens": 61440,
+                "speed": 154.69481255341861
+            },
+            {
+                "nb_parallel_requests": 4,
+                "total_time": 1397.932694196701,
+                "actual_total_time": 351.90720319747925,
+                "total_number_of_generated_tokens": 61440,
+                "speed": 175.68375418139212
+            },
+            {
+                "nb_parallel_requests": 6,
+                "total_time": 2080.4100253582,
+                "actual_total_time": 361.3865580558777,
+                "total_number_of_generated_tokens": 80896,
+                "speed": 225.21242300898
+            },
+            {
+                "nb_parallel_requests": 8,
+                "total_time": 2826.4399540424347,
+                "actual_total_time": 368.63354086875916,
+                "total_number_of_generated_tokens": 82944,
+                "speed": 226.34735107317272
+            },
+            {
+                "nb_parallel_requests": 10,
+                "total_time": 3408.2287945747375,
+                "actual_total_time": 356.50947403907776,
+                "total_number_of_generated_tokens": 93184,
+                "speed": 262.9927358941566
+            },
+            {
+                "nb_parallel_requests": 14,
+                "total_time": 5546.853603363037,
+                "actual_total_time": 412.29662704467773,
+                "total_number_of_generated_tokens": 115712,
+                "speed": 282.149567962404
+            },
+            {
+                "nb_parallel_requests": 18,
+                "total_time": 7151.608500003815,
+                "actual_total_time": 413.5628161430359,
+                "total_number_of_generated_tokens": 130048,
+                "speed": 316.13011651519366
+            },
+            {
+                "nb_parallel_requests": 22,
+                "total_time": 9073.841344833374,
+                "actual_total_time": 428.89653420448303,
+                "total_number_of_generated_tokens": 136192,
+                "speed": 319.1686065300285
+            },
+            {
+                "nb_parallel_requests": 26,
+                "total_time": 11692.43641114235,
+                "actual_total_time": 471.3555929660797,
+                "total_number_of_generated_tokens": 152576,
+                "speed": 325.20568330711336
+            },
+            {
+                "nb_parallel_requests": 30,
+                "total_time": 13970.515147209167,
+                "actual_total_time": 492.18304896354675,
+                "total_number_of_generated_tokens": 160768,
+                "speed": 328.1012077737716
+            },
+            {
+                "nb_parallel_requests": 34,
+                "total_time": 16470.744668722153,
+                "actual_total_time": 511.2075300216675,
+                "total_number_of_generated_tokens": 168960,
+                "speed": 331.9321892814187
+            }
+        ],
+        "input_length": 4096,
+        "output_length": 1024
+    }
+}

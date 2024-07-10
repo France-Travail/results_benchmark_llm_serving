@@ -1,5 +1,5 @@
 
-Model card for CodeLlama-7b-Instruct-hf on V100-32g
+Model card for Meta-Llama-3-8B-Instruct on V100-32g
 ====================================================
 
 # Main metrics
@@ -9,9 +9,9 @@ The main metrics are summarized in the following table :
 
 |Metric|Value|
 | :---: | :---: |
-|Prompt ingestion speed|~4500 t/s |
+|Prompt ingestion speed|~4250 t/s |
 |Mean generation speed for 10 parallel requests with a prompt of 1024 tokens and 128 tokens generated|~20 t/s for each request|
-|Estimate of the max nb of tokens in KV cache|~25k tokens |
+|Estimate of the max nb of tokens in KV cache|~75k tokens |
 
 # Total generation speed
 
@@ -43,17 +43,17 @@ The api from happy_vllm was launched using the following arguments :
 
 |Parameter|Value|
 | :---: | :---: |
-|model|CodeLlama-7b-Instruct-hf|
+|model|Meta-Llama-3-8B-Instruct|
 |step_live_metrics|0.01|
 |max_queries|1000|
 |request_rate|0|
 |backend|happy_vllm|
-|suite_id|2024-07-09, 10:00:01|
+|suite_id|2024-07-09, 08:59:08|
 |happy_vllm_version|1.1.3|
 |vllm_version|0.4.3|
 |host|0.0.0.0|
 |port|8501|
-|model_name|CodeLlama-7b-Instruct-hf|
+|model_name|Meta-Llama-3-8B-Instruct|
 |app_name|happy_vllm|
 |api_endpoint_prefix|/api_vllm/rs|
 |explicit_errors|False|

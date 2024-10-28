@@ -1,6 +1,6 @@
 
-Model card for Meta-Llama-3.1-70B-Instruct-AWQ-INT4 on H100
-===========================================================
+Model card for Codestral-22B-v0.1 on H100
+=========================================
 
 # Main metrics
 
@@ -9,9 +9,9 @@ The main metrics are summarized in the following table :
 
 |Metric|Value|
 | :---: | :---: |
-|Prompt ingestion speed|~1500 t/s |
-|Mean generation speed for 10 parallel requests with a prompt of 1024 tokens and 128 tokens generated|~12 t/s for each request|
-|Estimate of the max nb of tokens in KV cache|~125k tokens|
+|Prompt ingestion speed|~8000 t/s |
+|Mean generation speed for 10 parallel requests with a prompt of 1024 tokens and 128 tokens generated|~31 t/s for each request|
+|Estimate of the max nb of tokens in KV cache|~150k tokens|
 
 # Total generation speed
 
@@ -43,13 +43,13 @@ The api from happy_vllm was launched using the following arguments :
 
 |Parameter|Value|
 | :---: | :---: |
-|model|Meta-Llama-3.1-70B-Instruct-AWQ-INT4|
+|model|Codestral-22B-v0.1|
 |step_live_metrics|0.01|
 |max_queries|1000|
 |request_rate|0|
 |backend|happy_vllm|
-|suite_id|2024-09-24, 14:53:06|
-|model_name|Meta-Llama-3.1-70B-Instruct-AWQ-INT4|
+|suite_id|2024-09-24, 14:34:49|
+|model_name|Codestral-22B-v0.1|
 |happy_vllm_version|1.1.9|
 |vllm_version|0.6.1.post2|
 |host|0.0.0.0|
@@ -90,7 +90,7 @@ The api from happy_vllm was launched using the following arguments :
 |dtype|auto|
 |kv_cache_dtype|auto|
 |quantization_param_path|None|
-|max_model_len|100000|
+|max_model_len|None|
 |guided_decoding_backend|outlines|
 |distributed_executor_backend|None|
 |worker_use_ray|False|

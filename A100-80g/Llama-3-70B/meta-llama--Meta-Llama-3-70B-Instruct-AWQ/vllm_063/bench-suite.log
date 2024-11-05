@@ -1,0 +1,1286 @@
+INFO:Benchmark suite:2024-11-04, 08:12:53 Beginning the benchmark for the prompt ingestion speed
+INFO:Benchmark suite:2024-11-04, 08:12:53 Benchmark for the prompt ingestion speed : instance 0 
+INFO:Benchmark for LLMs:2024-11-04, 08:12:53 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 08:12:53 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 08:15:52 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 08:19:06 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 08:22:17 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 08:22:56 Max duration 600s has been reached
+INFO:Benchmark for LLMs:2024-11-04, 08:22:59 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 08:22:59 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 08:22:59 Benchmark for the prompt ingestion speed : instance 0 : DONE
+INFO:Benchmark suite:2024-11-04, 08:22:59 Benchmark for the prompt ingestion speed : instance 1 
+INFO:Benchmark for LLMs:2024-11-04, 08:22:59 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 08:23:00 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 08:26:15 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 08:29:07 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 08:32:18 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 08:33:03 Max duration 600s has been reached
+INFO:Benchmark for LLMs:2024-11-04, 08:33:06 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 08:33:06 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 08:33:06 Benchmark for the prompt ingestion speed : instance 1 : DONE
+INFO:Benchmark suite:2024-11-04, 08:33:06 Benchmark for the prompt ingestion speed : instance 2 
+INFO:Benchmark for LLMs:2024-11-04, 08:33:06 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 08:33:06 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 08:36:05 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 08:39:27 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 08:42:28 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 08:43:08 Max duration 600s has been reached
+INFO:Benchmark for LLMs:2024-11-04, 08:43:14 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 08:43:14 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 08:43:14 Benchmark for the prompt ingestion speed : instance 2 : DONE
+INFO:Benchmark suite:2024-11-04, 08:43:14 Benchmark for the prompt ingestion speed : instance 3 
+INFO:Benchmark for LLMs:2024-11-04, 08:43:14 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 08:43:14 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 08:46:28 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 08:49:14 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 08:52:29 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 08:53:16 Max duration 600s has been reached
+INFO:Benchmark for LLMs:2024-11-04, 08:53:21 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 08:53:21 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 08:53:21 Benchmark for the prompt ingestion speed : instance 3 : DONE
+INFO:Benchmark suite:2024-11-04, 08:53:21 Benchmark for the prompt ingestion speed : DONE
+INFO:Benchmark suite:2024-11-04, 08:53:21 Beginning the benchmarks for the KV cache profile
+INFO:Benchmark suite:2024-11-04, 08:53:21 Beginning the benchmark for the KV cache profile, input length : 32, output_length : 16
+INFO:Benchmark for LLMs:2024-11-04, 08:53:21 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 08:53:21 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 08:53:23 Launching 0 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:53:24 Launching 1 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:53:25 Launching 2 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:53:26 Launching 3 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:53:27 Launching 4 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:53:29 Launching 5 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:53:30 Launching 6 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:53:31 Launching 7 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:53:33 Launching 8 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:53:34 Launching 9 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:53:36 Launching 10 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:53:37 Launching 11 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:53:39 Launching 12 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:53:41 Launching 13 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:53:42 Launching 14 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:53:44 Launching 15 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:53:46 Launching 16 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:53:48 Launching 17 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:53:50 Launching 18 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:53:52 Launching 19 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:53:54 Launching 20 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:53:56 Launching 21 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:53:58 Launching 22 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:54:01 Launching 23 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:54:03 Launching 24 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:54:05 Launching 25 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:54:08 Launching 26 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:54:10 Launching 27 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:54:12 Launching 28 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:54:15 Launching 29 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:54:17 Launching 30 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:54:20 Launching 31 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:54:22 Launching 32 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:54:25 Launching 33 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:54:28 Launching 34 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:54:30 Launching 35 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:54:33 Launching 36 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:54:36 Launching 37 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:54:39 Launching 38 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:54:42 Launching 39 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:54:45 Launching 40 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:54:48 Launching 41 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:54:52 Launching 42 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:54:55 Launching 43 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:54:58 Launching 44 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:55:02 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 08:55:02 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 08:55:02 Benchmark for the KV cache profile, input length : 32, output_length : 16 : DONE
+INFO:Benchmark suite:2024-11-04, 08:55:02 Beginning the benchmark for the KV cache profile, input length : 32, output_length : 128
+INFO:Benchmark for LLMs:2024-11-04, 08:55:02 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 08:55:02 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 08:55:08 Launching 0 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:55:09 Launching 1 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:55:14 Launching 2 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:55:20 Launching 3 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:55:25 Launching 4 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:55:30 Launching 5 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:55:36 Launching 6 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:55:42 Launching 7 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:55:48 Launching 8 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:55:53 Launching 9 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:55:59 Launching 10 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:56:05 Launching 11 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:56:11 Launching 12 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:56:17 Launching 13 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:56:24 Launching 14 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:56:30 Launching 15 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:56:36 Launching 16 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:56:42 Launching 17 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:56:50 Launching 18 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:56:57 Launching 19 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:57:05 Launching 20 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:57:12 Launching 21 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:57:19 Launching 22 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:57:27 Launching 23 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:57:34 Launching 24 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:57:42 Launching 25 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:57:50 Launching 26 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:57:58 Launching 27 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:58:06 Launching 28 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:58:13 Launching 29 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:58:22 Launching 30 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:58:30 Launching 31 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:58:38 Launching 32 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:58:46 Launching 33 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:58:55 Launching 34 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:59:04 Launching 35 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:59:14 Launching 36 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:59:23 Launching 37 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:59:33 Launching 38 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:59:42 Launching 39 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 08:59:52 Launching 40 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:00:01 Launching 41 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:00:11 Launching 42 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:00:21 Launching 43 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:00:31 Launching 44 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:00:41 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 09:00:41 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 09:00:42 Benchmark for the KV cache profile, input length : 32, output_length : 128 : DONE
+INFO:Benchmark suite:2024-11-04, 09:00:42 Beginning the benchmark for the KV cache profile, input length : 32, output_length : 1024
+INFO:Benchmark for LLMs:2024-11-04, 09:00:42 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 09:00:42 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 09:01:22 Launching 0 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:01:22 Launching 1 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:02:01 Launching 2 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:02:40 Launching 3 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:03:19 Launching 4 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:03:59 Launching 5 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:04:40 Launching 6 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:05:21 Launching 7 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:06:02 Launching 8 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:06:43 Launching 9 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:07:26 Launching 10 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:08:09 Launching 11 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:08:52 Launching 12 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:09:35 Launching 13 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:10:19 Launching 14 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:11:02 Launching 15 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:11:46 Max duration 600s has been reached
+INFO:Benchmark for LLMs:2024-11-04, 09:11:47 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 09:11:47 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 09:11:47 Benchmark for the KV cache profile, input length : 32, output_length : 1024 : DONE
+INFO:Benchmark suite:2024-11-04, 09:11:47 Beginning the benchmark for the KV cache profile, input length : 1024, output_length : 16
+INFO:Benchmark for LLMs:2024-11-04, 09:11:47 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 09:11:47 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 09:11:49 Launching 0 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:11:50 Launching 1 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:11:52 Launching 2 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:11:55 Launching 3 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:11:59 Launching 4 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:12:03 Launching 5 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:12:09 Launching 6 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:12:16 Launching 7 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:12:23 Launching 8 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:12:31 Launching 9 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:12:41 Launching 10 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:12:51 Launching 11 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:13:02 Launching 12 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:13:14 Launching 13 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:13:27 Launching 14 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:13:41 Launching 15 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:13:56 Launching 16 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:14:11 Launching 17 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:14:28 Launching 18 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:14:46 Launching 19 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:15:05 Launching 20 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:15:24 Launching 21 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:15:44 Launching 22 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:16:06 Launching 23 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:16:28 Launching 24 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:16:51 Launching 25 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:17:15 Launching 26 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:17:40 Launching 27 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:18:05 Launching 28 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:18:32 Launching 29 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:19:00 Launching 30 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:19:28 Launching 31 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:19:58 Launching 32 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:20:28 Launching 33 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:21:00 Launching 34 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:21:32 Launching 35 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:22:05 Max duration 600s has been reached
+INFO:Benchmark for LLMs:2024-11-04, 09:22:06 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 09:22:06 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 09:22:06 Benchmark for the KV cache profile, input length : 1024, output_length : 16 : DONE
+INFO:Benchmark suite:2024-11-04, 09:22:06 Beginning the benchmark for the KV cache profile, input length : 1024, output_length : 128
+INFO:Benchmark for LLMs:2024-11-04, 09:22:06 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 09:22:06 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 09:22:13 Launching 0 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:22:13 Launching 1 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:22:20 Launching 2 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:22:27 Launching 3 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:22:35 Launching 4 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:22:44 Launching 5 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:22:54 Launching 6 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:23:05 Launching 7 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:23:17 Launching 8 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:23:30 Launching 9 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:23:44 Launching 10 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:23:59 Launching 11 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:24:15 Launching 12 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:24:32 Launching 13 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:24:50 Launching 14 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:25:09 Launching 15 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:25:29 Launching 16 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:25:49 Launching 17 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:26:12 Launching 18 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:26:35 Launching 19 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:26:59 Launching 20 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:27:25 Launching 21 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:27:51 Launching 22 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:28:18 Launching 23 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:28:46 Launching 24 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:29:15 Launching 25 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:29:45 Launching 26 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:30:16 Launching 27 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:30:48 Launching 28 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:31:20 Launching 29 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:31:54 Launching 30 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:32:29 Max duration 600s has been reached
+INFO:Benchmark for LLMs:2024-11-04, 09:32:30 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 09:32:30 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 09:32:30 Benchmark for the KV cache profile, input length : 1024, output_length : 128 : DONE
+INFO:Benchmark suite:2024-11-04, 09:32:30 Beginning the benchmark for the KV cache profile, input length : 1024, output_length : 1024
+INFO:Benchmark for LLMs:2024-11-04, 09:32:30 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 09:32:30 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 09:33:10 Launching 0 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:33:11 Launching 1 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:33:51 Launching 2 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:34:32 Launching 3 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:35:15 Launching 4 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:36:00 Launching 5 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:36:46 Launching 6 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:37:34 Launching 7 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:38:23 Launching 8 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:39:13 Launching 9 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:40:05 Launching 10 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:40:59 Launching 11 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:41:55 Launching 12 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:42:51 Launching 13 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:43:49 Max duration 600s has been reached
+INFO:Benchmark for LLMs:2024-11-04, 09:43:50 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 09:43:50 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 09:43:50 Benchmark for the KV cache profile, input length : 1024, output_length : 1024 : DONE
+INFO:Benchmark suite:2024-11-04, 09:43:50 Beginning the benchmark for the KV cache profile, input length : 4096, output_length : 16
+INFO:Benchmark for LLMs:2024-11-04, 09:43:50 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 09:43:50 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 09:43:52 Launching 0 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:43:53 Launching 1 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:43:58 Launching 2 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:44:06 Launching 3 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:44:18 Launching 4 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:44:34 Launching 5 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:44:53 Launching 6 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:45:16 Launching 7 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:45:42 Launching 8 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:46:13 Launching 9 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:46:47 Launching 10 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:47:25 Launching 11 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:48:07 Launching 12 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:48:52 Launching 13 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:49:41 Launching 14 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:50:34 Launching 15 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:51:30 Launching 16 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:52:30 Launching 17 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:53:34 Launching 18 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:54:41 Max duration 600s has been reached
+INFO:Benchmark for LLMs:2024-11-04, 09:54:42 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 09:54:42 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 09:54:42 Benchmark for the KV cache profile, input length : 4096, output_length : 16 : DONE
+INFO:Benchmark suite:2024-11-04, 09:54:42 Beginning the benchmark for the KV cache profile, input length : 4096, output_length : 128
+INFO:Benchmark for LLMs:2024-11-04, 09:54:42 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 09:54:42 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 09:54:49 Launching 0 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:54:49 Launching 1 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:54:58 Launching 2 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:55:11 Launching 3 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:55:28 Launching 4 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:55:48 Launching 5 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:56:12 Launching 6 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:56:40 Launching 7 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:57:12 Launching 8 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:57:48 Launching 9 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:58:30 Launching 10 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 09:59:16 Launching 11 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 10:00:06 Launching 12 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 10:00:59 Launching 13 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 10:01:56 Launching 14 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 10:02:57 Launching 15 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 10:04:02 Launching 16 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 10:05:10 Max duration 600s has been reached
+INFO:Benchmark for LLMs:2024-11-04, 10:05:11 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 10:05:11 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 10:05:11 Benchmark for the KV cache profile, input length : 4096, output_length : 128 : DONE
+INFO:Benchmark suite:2024-11-04, 10:05:11 Beginning the benchmark for the KV cache profile, input length : 4096, output_length : 1024
+INFO:Benchmark for LLMs:2024-11-04, 10:05:11 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 10:05:11 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 10:05:51 Launching 0 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 10:05:52 Launching 1 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 10:06:35 Launching 2 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 10:07:23 Launching 3 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 10:08:17 Launching 4 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 10:09:14 Launching 5 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 10:10:19 Launching 6 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 10:11:27 Launching 7 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 10:12:40 Launching 8 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 10:13:58 Launching 9 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 10:15:45 Launching 10 queries in parallel
+INFO:Benchmark for LLMs:2024-11-04, 10:17:37 Max duration 600s has been reached
+INFO:Benchmark for LLMs:2024-11-04, 10:17:38 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 10:17:38 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 10:17:38 Benchmark for the KV cache profile, input length : 4096, output_length : 1024 : DONE
+INFO:Benchmark suite:2024-11-04, 10:17:38 Benchmarks for the KV cache profile : DONE
+INFO:Benchmark suite:2024-11-04, 10:17:38 Beginning the benchmarks for the generation speed
+INFO:Benchmark suite:2024-11-04, 10:17:38 Beginning the benchmarks for the generation speed, input length : 32, output_length : 16
+INFO:Benchmark suite:2024-11-04, 10:17:38 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 1
+INFO:Benchmark for LLMs:2024-11-04, 10:17:38 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 10:17:38 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 10:18:46 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:19:52 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:20:58 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:22:04 400 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:22:42 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 10:22:42 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 10:22:43 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 1 : DONE
+INFO:Benchmark suite:2024-11-04, 10:22:43 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 2
+INFO:Benchmark for LLMs:2024-11-04, 10:22:43 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 10:22:43 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 10:23:20 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:23:55 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:24:31 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:25:06 400 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:25:42 500 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:26:18 600 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:26:53 700 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:27:29 800 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:27:47 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 10:27:47 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 10:27:47 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 2 : DONE
+INFO:Benchmark suite:2024-11-04, 10:27:47 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 3
+INFO:Benchmark for LLMs:2024-11-04, 10:27:47 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 10:27:47 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 10:28:15 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:28:40 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:29:05 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:29:31 400 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:29:56 500 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:30:21 600 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:30:47 700 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:31:12 800 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:31:37 900 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:32:03 1000 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:32:04 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 10:32:04 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 10:32:04 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 3 : DONE
+INFO:Benchmark suite:2024-11-04, 10:32:04 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 4
+INFO:Benchmark for LLMs:2024-11-04, 10:32:04 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 10:32:04 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 10:32:25 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:32:45 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:33:06 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:33:26 400 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:33:46 500 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:34:06 600 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:34:26 700 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:34:46 800 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:35:06 900 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:35:26 1000 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:35:27 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 10:35:27 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 10:35:27 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 4 : DONE
+INFO:Benchmark suite:2024-11-04, 10:35:27 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 6
+INFO:Benchmark for LLMs:2024-11-04, 10:35:27 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 10:35:27 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 10:35:44 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:36:00 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:36:15 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:36:31 400 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:36:46 500 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:37:02 600 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:37:17 700 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:37:33 800 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:37:48 900 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:38:04 1000 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:38:05 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 10:38:05 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 10:38:05 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 6 : DONE
+INFO:Benchmark suite:2024-11-04, 10:38:05 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 8
+INFO:Benchmark for LLMs:2024-11-04, 10:38:05 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 10:38:05 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 10:38:19 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:38:31 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:38:44 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:38:56 400 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:39:08 500 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:39:20 600 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:39:33 700 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:39:45 800 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:39:58 900 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:40:10 1000 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:40:11 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 10:40:11 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 10:40:11 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 8 : DONE
+INFO:Benchmark suite:2024-11-04, 10:40:11 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 10
+INFO:Benchmark for LLMs:2024-11-04, 10:40:11 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 10:40:11 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 10:40:24 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:40:34 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:40:45 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:40:56 400 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:41:07 500 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:41:18 600 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:41:29 700 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:41:40 800 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:41:51 900 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:42:02 1000 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:42:03 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 10:42:03 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 10:42:03 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 10 : DONE
+INFO:Benchmark suite:2024-11-04, 10:42:03 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 14
+INFO:Benchmark for LLMs:2024-11-04, 10:42:03 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 10:42:03 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 10:42:15 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:42:24 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:42:33 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:42:42 400 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:42:51 500 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:43:00 600 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:43:09 700 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:43:19 800 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:43:28 900 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:43:36 1000 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:43:37 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 10:43:37 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 10:43:37 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 14 : DONE
+INFO:Benchmark suite:2024-11-04, 10:43:37 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 18
+INFO:Benchmark for LLMs:2024-11-04, 10:43:37 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 10:43:37 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 10:43:49 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:43:58 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:44:05 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:44:15 400 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:44:23 500 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:44:32 600 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:44:40 700 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:44:49 800 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:44:57 900 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:45:06 1000 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:45:07 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 10:45:07 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 10:45:07 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 18 : DONE
+INFO:Benchmark suite:2024-11-04, 10:45:07 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 22
+INFO:Benchmark for LLMs:2024-11-04, 10:45:07 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 10:45:07 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 10:45:18 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:45:26 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:45:33 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:45:42 400 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:45:49 500 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:45:58 600 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:46:05 700 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:46:14 800 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:46:21 900 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:46:30 1000 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:46:31 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 10:46:31 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 10:46:31 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 22 : DONE
+INFO:Benchmark suite:2024-11-04, 10:46:31 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 26
+INFO:Benchmark for LLMs:2024-11-04, 10:46:31 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 10:46:31 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 10:46:40 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:46:48 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:46:56 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:47:04 400 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:47:11 500 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:47:19 600 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:47:25 700 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:47:33 800 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:47:40 900 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:47:47 1000 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:47:48 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 10:47:48 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 10:47:48 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 26 : DONE
+INFO:Benchmark suite:2024-11-04, 10:47:48 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 30
+INFO:Benchmark for LLMs:2024-11-04, 10:47:48 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 10:47:48 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 10:47:59 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:48:05 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:48:11 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:48:20 400 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:48:26 500 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:48:32 600 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:48:41 700 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:48:47 800 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:48:54 900 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:49:01 1000 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:49:02 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 10:49:02 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 10:49:02 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 30 : DONE
+INFO:Benchmark suite:2024-11-04, 10:49:02 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 34
+INFO:Benchmark for LLMs:2024-11-04, 10:49:02 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 10:49:02 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 10:49:11 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:49:18 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:49:26 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:49:33 400 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:49:40 500 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:49:47 600 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:49:54 700 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:50:01 800 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:50:09 900 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:50:15 1000 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:50:16 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 10:50:16 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 10:50:16 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 34 : DONE
+INFO:Benchmark suite:2024-11-04, 10:50:16 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 38
+INFO:Benchmark for LLMs:2024-11-04, 10:50:16 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 10:50:16 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 10:50:25 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:50:33 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:50:38 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:50:46 400 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:50:53 500 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:50:58 600 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:51:06 700 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:51:14 800 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:51:19 900 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:51:25 1000 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 10:51:26 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 10:51:26 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 10:51:26 Benchmarks for the generation speed, input length : 32, output_length : 16, nb_requests : 38 : DONE
+INFO:Benchmark suite:2024-11-04, 10:51:26 Benchmarks for the generation speed, input length : 32, output_length : 16 : DONE
+INFO:Benchmark suite:2024-11-04, 10:51:26 Beginning the benchmarks for the generation speed, input length : 32, output_length : 128
+INFO:Benchmark suite:2024-11-04, 10:51:26 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 1
+INFO:Benchmark for LLMs:2024-11-04, 10:51:26 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 10:51:26 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 10:56:48 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 10:56:48 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 10:56:48 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 1 : DONE
+INFO:Benchmark suite:2024-11-04, 10:56:48 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 2
+INFO:Benchmark for LLMs:2024-11-04, 10:56:48 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 10:56:48 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 11:00:59 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:02:08 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 11:02:08 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 11:02:08 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 2 : DONE
+INFO:Benchmark suite:2024-11-04, 11:02:08 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 3
+INFO:Benchmark for LLMs:2024-11-04, 11:02:08 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 11:02:08 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 11:05:04 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:07:29 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 11:07:29 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 11:07:29 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 3 : DONE
+INFO:Benchmark suite:2024-11-04, 11:07:29 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 4
+INFO:Benchmark for LLMs:2024-11-04, 11:07:29 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 11:07:29 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 11:09:41 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:11:47 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:12:48 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 11:12:48 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 11:12:48 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 4 : DONE
+INFO:Benchmark suite:2024-11-04, 11:12:48 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 6
+INFO:Benchmark for LLMs:2024-11-04, 11:12:48 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 11:12:48 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 11:14:22 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:15:51 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:17:15 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:18:08 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 11:18:08 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 11:18:08 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 6 : DONE
+INFO:Benchmark suite:2024-11-04, 11:18:08 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 8
+INFO:Benchmark for LLMs:2024-11-04, 11:18:08 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 11:18:08 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 11:19:23 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:20:27 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:21:36 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:22:40 400 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:23:28 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 11:23:28 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 11:23:28 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 8 : DONE
+INFO:Benchmark suite:2024-11-04, 11:23:28 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 10
+INFO:Benchmark for LLMs:2024-11-04, 11:23:28 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 11:23:28 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 11:24:30 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:25:25 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:26:21 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:27:17 400 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:28:12 500 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:28:46 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 11:28:46 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 11:28:46 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 10 : DONE
+INFO:Benchmark suite:2024-11-04, 11:28:46 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 14
+INFO:Benchmark for LLMs:2024-11-04, 11:28:46 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 11:28:46 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 11:29:38 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:30:18 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:30:58 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:31:39 400 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:32:19 500 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:33:00 600 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:33:40 700 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:34:09 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 11:34:09 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 11:34:09 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 14 : DONE
+INFO:Benchmark suite:2024-11-04, 11:34:09 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 18
+INFO:Benchmark for LLMs:2024-11-04, 11:34:09 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 11:34:09 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 11:34:56 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:35:37 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:36:11 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:36:52 400 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:37:27 500 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:38:08 600 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:38:42 700 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:39:23 800 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:39:29 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 11:39:29 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 11:39:29 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 18 : DONE
+INFO:Benchmark suite:2024-11-04, 11:39:29 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 22
+INFO:Benchmark for LLMs:2024-11-04, 11:39:29 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 11:39:29 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 11:40:10 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:40:45 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:41:13 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:41:49 400 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:42:17 500 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:42:53 600 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:43:20 700 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:43:56 800 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:44:24 900 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:44:51 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 11:44:51 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 11:44:51 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 22 : DONE
+INFO:Benchmark suite:2024-11-04, 11:44:51 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 26
+INFO:Benchmark for LLMs:2024-11-04, 11:44:51 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 11:44:51 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 11:45:26 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:45:56 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:46:25 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:46:55 400 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:47:25 500 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:47:54 600 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:48:16 700 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:48:46 800 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:49:16 900 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:49:44 1000 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:49:45 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 11:49:45 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 11:49:45 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 26 : DONE
+INFO:Benchmark suite:2024-11-04, 11:49:45 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 30
+INFO:Benchmark for LLMs:2024-11-04, 11:49:45 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 11:49:45 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 11:50:21 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:50:44 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:51:06 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:51:37 400 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:52:00 500 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:52:22 600 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:52:53 700 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:53:16 800 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:53:39 900 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:54:07 1000 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:54:08 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 11:54:08 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 11:54:08 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 30 : DONE
+INFO:Benchmark suite:2024-11-04, 11:54:08 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 34
+INFO:Benchmark for LLMs:2024-11-04, 11:54:08 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 11:54:08 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 11:54:41 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:55:07 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:55:34 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:56:00 400 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:56:27 500 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:56:54 600 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:57:20 700 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:57:47 800 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:58:13 900 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:58:37 1000 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:58:38 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 11:58:38 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 11:58:38 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 34 : DONE
+INFO:Benchmark suite:2024-11-04, 11:58:38 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 38
+INFO:Benchmark for LLMs:2024-11-04, 11:58:38 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 11:58:38 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 11:59:11 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:59:38 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 11:59:56 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 12:00:23 400 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 12:00:51 500 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 12:01:09 600 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 12:01:36 700 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 12:02:03 800 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 12:02:21 900 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 12:02:45 1000 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 12:02:46 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 12:02:46 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 12:02:46 Benchmarks for the generation speed, input length : 32, output_length : 128, nb_requests : 38 : DONE
+INFO:Benchmark suite:2024-11-04, 12:02:46 Benchmarks for the generation speed, input length : 32, output_length : 128 : DONE
+INFO:Benchmark suite:2024-11-04, 12:02:46 Beginning the benchmarks for the generation speed, input length : 32, output_length : 1024
+INFO:Benchmark suite:2024-11-04, 12:02:46 Benchmarks for the generation speed, input length : 32, output_length : 1024, nb_requests : 1
+INFO:Benchmark for LLMs:2024-11-04, 12:02:46 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 12:02:47 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 12:41:55 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 12:41:55 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 12:41:55 Benchmarks for the generation speed, input length : 32, output_length : 1024, nb_requests : 1 : DONE
+INFO:Benchmark suite:2024-11-04, 12:41:55 Benchmarks for the generation speed, input length : 32, output_length : 1024, nb_requests : 2
+INFO:Benchmark for LLMs:2024-11-04, 12:41:55 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 12:41:55 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 13:01:55 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 13:01:55 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 13:01:55 Benchmarks for the generation speed, input length : 32, output_length : 1024, nb_requests : 2 : DONE
+INFO:Benchmark suite:2024-11-04, 13:01:55 Benchmarks for the generation speed, input length : 32, output_length : 1024, nb_requests : 3
+INFO:Benchmark for LLMs:2024-11-04, 13:01:55 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 13:01:55 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 13:15:38 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 13:15:38 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 13:15:38 Benchmarks for the generation speed, input length : 32, output_length : 1024, nb_requests : 3 : DONE
+INFO:Benchmark suite:2024-11-04, 13:15:38 Benchmarks for the generation speed, input length : 32, output_length : 1024, nb_requests : 4
+INFO:Benchmark for LLMs:2024-11-04, 13:15:38 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 13:15:38 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 13:26:08 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 13:26:08 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 13:26:08 Benchmarks for the generation speed, input length : 32, output_length : 1024, nb_requests : 4 : DONE
+INFO:Benchmark suite:2024-11-04, 13:26:08 Benchmarks for the generation speed, input length : 32, output_length : 1024, nb_requests : 6
+INFO:Benchmark for LLMs:2024-11-04, 13:26:08 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 13:26:08 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 13:33:34 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 13:33:34 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 13:33:34 Benchmarks for the generation speed, input length : 32, output_length : 1024, nb_requests : 6 : DONE
+INFO:Benchmark suite:2024-11-04, 13:33:34 Benchmarks for the generation speed, input length : 32, output_length : 1024, nb_requests : 8
+INFO:Benchmark for LLMs:2024-11-04, 13:33:34 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 13:33:34 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 13:41:02 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 13:41:02 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 13:41:02 Benchmarks for the generation speed, input length : 32, output_length : 1024, nb_requests : 8 : DONE
+INFO:Benchmark suite:2024-11-04, 13:41:02 Benchmarks for the generation speed, input length : 32, output_length : 1024, nb_requests : 10
+INFO:Benchmark for LLMs:2024-11-04, 13:41:02 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 13:41:02 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 13:48:43 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 13:48:43 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 13:48:43 Benchmarks for the generation speed, input length : 32, output_length : 1024, nb_requests : 10 : DONE
+INFO:Benchmark suite:2024-11-04, 13:48:43 Benchmarks for the generation speed, input length : 32, output_length : 1024 : DONE
+INFO:Benchmark suite:2024-11-04, 13:48:43 Beginning the benchmarks for the generation speed, input length : 1024, output_length : 16
+INFO:Benchmark suite:2024-11-04, 13:48:43 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 1
+INFO:Benchmark for LLMs:2024-11-04, 13:48:43 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 13:48:43 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 13:51:26 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 13:53:50 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 13:53:50 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 13:53:50 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 1 : DONE
+INFO:Benchmark suite:2024-11-04, 13:53:50 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 2
+INFO:Benchmark for LLMs:2024-11-04, 13:53:50 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 13:53:50 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 13:55:56 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 13:58:01 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 13:58:59 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 13:58:59 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 13:58:59 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 2 : DONE
+INFO:Benchmark suite:2024-11-04, 13:58:59 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 3
+INFO:Benchmark for LLMs:2024-11-04, 13:58:59 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 13:58:59 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 14:00:56 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:02:48 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:04:08 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 14:04:08 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 14:04:08 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 3 : DONE
+INFO:Benchmark suite:2024-11-04, 14:04:08 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 4
+INFO:Benchmark for LLMs:2024-11-04, 14:04:08 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 14:04:08 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 14:05:57 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:07:44 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:09:21 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 14:09:21 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 14:09:21 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 4 : DONE
+INFO:Benchmark suite:2024-11-04, 14:09:21 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 6
+INFO:Benchmark for LLMs:2024-11-04, 14:09:21 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 14:09:21 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 14:11:06 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:12:50 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:14:27 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:14:36 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 14:14:36 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 14:14:36 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 6 : DONE
+INFO:Benchmark suite:2024-11-04, 14:14:36 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 8
+INFO:Benchmark for LLMs:2024-11-04, 14:14:36 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 14:14:36 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 14:16:21 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:17:56 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:19:40 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:19:50 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 14:19:50 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 14:19:50 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 8 : DONE
+INFO:Benchmark suite:2024-11-04, 14:19:50 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 10
+INFO:Benchmark for LLMs:2024-11-04, 14:19:50 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 14:19:50 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 14:21:30 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:23:08 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:24:45 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:25:07 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 14:25:07 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 14:25:07 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 10 : DONE
+INFO:Benchmark suite:2024-11-04, 14:25:07 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 14
+INFO:Benchmark for LLMs:2024-11-04, 14:25:07 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 14:25:07 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 14:26:56 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:28:30 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:30:04 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:30:34 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 14:30:34 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 14:30:34 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 14 : DONE
+INFO:Benchmark suite:2024-11-04, 14:30:34 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 18
+INFO:Benchmark for LLMs:2024-11-04, 14:30:34 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 14:30:34 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 14:32:18 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:34:01 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:35:27 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:36:05 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 14:36:05 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 14:36:05 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 18 : DONE
+INFO:Benchmark suite:2024-11-04, 14:36:05 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 22
+INFO:Benchmark for LLMs:2024-11-04, 14:36:05 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 14:36:05 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 14:37:50 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:39:34 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:40:57 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:41:42 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 14:41:42 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 14:41:42 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 22 : DONE
+INFO:Benchmark suite:2024-11-04, 14:41:42 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 26
+INFO:Benchmark for LLMs:2024-11-04, 14:41:42 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 14:41:42 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 14:43:21 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:44:59 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:46:37 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:47:28 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 14:47:28 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 14:47:28 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 26 : DONE
+INFO:Benchmark suite:2024-11-04, 14:47:28 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 30
+INFO:Benchmark for LLMs:2024-11-04, 14:47:28 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 14:47:28 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 14:49:22 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:50:46 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:52:10 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:53:09 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 14:53:09 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 14:53:09 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 30 : DONE
+INFO:Benchmark suite:2024-11-04, 14:53:09 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 34
+INFO:Benchmark for LLMs:2024-11-04, 14:53:09 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 14:53:09 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 14:54:47 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:56:23 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:57:59 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 14:59:06 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 14:59:06 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 14:59:06 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 34 : DONE
+INFO:Benchmark suite:2024-11-04, 14:59:06 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 38
+INFO:Benchmark for LLMs:2024-11-04, 14:59:06 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 14:59:06 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 15:00:55 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 15:02:42 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 15:03:53 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 15:05:07 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 15:05:07 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 15:05:07 Benchmarks for the generation speed, input length : 1024, output_length : 16, nb_requests : 38 : DONE
+INFO:Benchmark suite:2024-11-04, 15:05:07 Benchmarks for the generation speed, input length : 1024, output_length : 16 : DONE
+INFO:Benchmark suite:2024-11-04, 15:05:07 Beginning the benchmarks for the generation speed, input length : 1024, output_length : 128
+INFO:Benchmark suite:2024-11-04, 15:05:07 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 1
+INFO:Benchmark for LLMs:2024-11-04, 15:05:07 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 15:05:07 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 15:11:03 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 15:11:03 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 15:11:03 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 1 : DONE
+INFO:Benchmark suite:2024-11-04, 15:11:03 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 2
+INFO:Benchmark for LLMs:2024-11-04, 15:11:03 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 15:11:03 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 15:16:26 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 15:16:26 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 15:16:26 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 2 : DONE
+INFO:Benchmark suite:2024-11-04, 15:16:26 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 3
+INFO:Benchmark for LLMs:2024-11-04, 15:16:26 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 15:16:26 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 15:20:54 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 15:21:47 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 15:21:47 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 15:21:47 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 3 : DONE
+INFO:Benchmark suite:2024-11-04, 15:21:47 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 4
+INFO:Benchmark for LLMs:2024-11-04, 15:21:47 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 15:21:47 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 15:25:29 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 15:27:10 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 15:27:10 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 15:27:10 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 4 : DONE
+INFO:Benchmark suite:2024-11-04, 15:27:10 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 6
+INFO:Benchmark for LLMs:2024-11-04, 15:27:10 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 15:27:10 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 15:30:16 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 15:32:41 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 15:32:41 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 15:32:41 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 6 : DONE
+INFO:Benchmark suite:2024-11-04, 15:32:41 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 8
+INFO:Benchmark for LLMs:2024-11-04, 15:32:41 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 15:32:41 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 15:35:29 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 15:38:00 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 15:38:07 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 15:38:07 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 15:38:07 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 8 : DONE
+INFO:Benchmark suite:2024-11-04, 15:38:07 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 10
+INFO:Benchmark for LLMs:2024-11-04, 15:38:07 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 15:38:07 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 15:40:38 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 15:43:03 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 15:43:39 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 15:43:39 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 15:43:39 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 10 : DONE
+INFO:Benchmark suite:2024-11-04, 15:43:39 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 14
+INFO:Benchmark for LLMs:2024-11-04, 15:43:39 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 15:43:39 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 15:46:11 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 15:48:19 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 15:49:20 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 15:49:20 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 15:49:20 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 14 : DONE
+INFO:Benchmark suite:2024-11-04, 15:49:20 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 18
+INFO:Benchmark for LLMs:2024-11-04, 15:49:20 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 15:49:20 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 15:51:44 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 15:54:01 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 15:55:17 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 15:55:17 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 15:55:17 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 18 : DONE
+INFO:Benchmark suite:2024-11-04, 15:55:17 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 22
+INFO:Benchmark for LLMs:2024-11-04, 15:55:17 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 15:55:17 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 15:57:36 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 15:59:49 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 16:01:15 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 16:01:15 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 16:01:15 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 22 : DONE
+INFO:Benchmark suite:2024-11-04, 16:01:15 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 26
+INFO:Benchmark for LLMs:2024-11-04, 16:01:15 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 16:01:15 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 16:03:23 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 16:05:25 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 16:07:04 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 16:07:04 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 16:07:04 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 26 : DONE
+INFO:Benchmark suite:2024-11-04, 16:07:04 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 30
+INFO:Benchmark for LLMs:2024-11-04, 16:07:04 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 16:07:04 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 16:09:27 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 16:11:10 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 16:12:53 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 16:13:00 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 16:13:00 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 16:13:00 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 30 : DONE
+INFO:Benchmark suite:2024-11-04, 16:13:00 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 34
+INFO:Benchmark for LLMs:2024-11-04, 16:13:00 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 16:13:00 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 16:15:08 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 16:17:10 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 16:19:12 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 16:19:19 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 16:19:19 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 16:19:19 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 34 : DONE
+INFO:Benchmark suite:2024-11-04, 16:19:19 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 38
+INFO:Benchmark for LLMs:2024-11-04, 16:19:19 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 16:19:19 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 16:21:38 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 16:23:52 200 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 16:25:20 300 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 16:25:27 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 16:25:27 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 16:25:27 Benchmarks for the generation speed, input length : 1024, output_length : 128, nb_requests : 38 : DONE
+INFO:Benchmark suite:2024-11-04, 16:25:27 Benchmarks for the generation speed, input length : 1024, output_length : 128 : DONE
+INFO:Benchmark suite:2024-11-04, 16:25:27 Beginning the benchmarks for the generation speed, input length : 1024, output_length : 1024
+INFO:Benchmark suite:2024-11-04, 16:25:27 Benchmarks for the generation speed, input length : 1024, output_length : 1024, nb_requests : 1
+INFO:Benchmark for LLMs:2024-11-04, 16:25:27 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 16:25:27 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 17:05:45 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 17:05:46 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 17:05:46 Benchmarks for the generation speed, input length : 1024, output_length : 1024, nb_requests : 1 : DONE
+INFO:Benchmark suite:2024-11-04, 17:05:46 Benchmarks for the generation speed, input length : 1024, output_length : 1024, nb_requests : 2
+INFO:Benchmark for LLMs:2024-11-04, 17:05:46 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 17:05:46 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 17:26:55 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 17:26:55 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 17:26:55 Benchmarks for the generation speed, input length : 1024, output_length : 1024, nb_requests : 2 : DONE
+INFO:Benchmark suite:2024-11-04, 17:26:55 Benchmarks for the generation speed, input length : 1024, output_length : 1024, nb_requests : 3
+INFO:Benchmark for LLMs:2024-11-04, 17:26:55 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 17:26:55 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 17:41:46 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 17:41:46 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 17:41:46 Benchmarks for the generation speed, input length : 1024, output_length : 1024, nb_requests : 3 : DONE
+INFO:Benchmark suite:2024-11-04, 17:41:46 Benchmarks for the generation speed, input length : 1024, output_length : 1024, nb_requests : 4
+INFO:Benchmark for LLMs:2024-11-04, 17:41:46 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 17:41:46 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 17:53:23 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 17:53:23 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 17:53:23 Benchmarks for the generation speed, input length : 1024, output_length : 1024, nb_requests : 4 : DONE
+INFO:Benchmark suite:2024-11-04, 17:53:23 Benchmarks for the generation speed, input length : 1024, output_length : 1024, nb_requests : 6
+INFO:Benchmark for LLMs:2024-11-04, 17:53:23 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 17:53:23 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 18:01:55 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 18:01:55 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 18:01:55 Benchmarks for the generation speed, input length : 1024, output_length : 1024, nb_requests : 6 : DONE
+INFO:Benchmark suite:2024-11-04, 18:01:55 Benchmarks for the generation speed, input length : 1024, output_length : 1024, nb_requests : 8
+INFO:Benchmark for LLMs:2024-11-04, 18:01:55 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 18:01:55 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 18:09:52 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 18:09:52 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 18:09:52 Benchmarks for the generation speed, input length : 1024, output_length : 1024, nb_requests : 8 : DONE
+INFO:Benchmark suite:2024-11-04, 18:09:52 Benchmarks for the generation speed, input length : 1024, output_length : 1024 : DONE
+INFO:Benchmark suite:2024-11-04, 18:09:52 Beginning the benchmarks for the generation speed, input length : 4096, output_length : 16
+INFO:Benchmark suite:2024-11-04, 18:09:52 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 1
+INFO:Benchmark for LLMs:2024-11-04, 18:09:52 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 18:09:52 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 18:15:04 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 18:15:04 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 18:15:04 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 1 : DONE
+INFO:Benchmark suite:2024-11-04, 18:15:04 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 2
+INFO:Benchmark for LLMs:2024-11-04, 18:15:04 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 18:15:04 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 18:20:20 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 18:20:20 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 18:20:20 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 2 : DONE
+INFO:Benchmark suite:2024-11-04, 18:20:20 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 3
+INFO:Benchmark for LLMs:2024-11-04, 18:20:20 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 18:20:20 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 18:25:40 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 18:25:40 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 18:25:40 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 3 : DONE
+INFO:Benchmark suite:2024-11-04, 18:25:40 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 4
+INFO:Benchmark for LLMs:2024-11-04, 18:25:40 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 18:25:40 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 18:31:08 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 18:31:08 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 18:31:08 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 4 : DONE
+INFO:Benchmark suite:2024-11-04, 18:31:08 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 6
+INFO:Benchmark for LLMs:2024-11-04, 18:31:08 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 18:31:08 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 18:36:54 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 18:36:54 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 18:36:54 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 6 : DONE
+INFO:Benchmark suite:2024-11-04, 18:36:54 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 8
+INFO:Benchmark for LLMs:2024-11-04, 18:36:54 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 18:36:54 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 18:42:59 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 18:42:59 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 18:42:59 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 8 : DONE
+INFO:Benchmark suite:2024-11-04, 18:42:59 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 10
+INFO:Benchmark for LLMs:2024-11-04, 18:42:59 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 18:42:59 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 18:48:44 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 18:48:44 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 18:48:44 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 10 : DONE
+INFO:Benchmark suite:2024-11-04, 18:48:44 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 14
+INFO:Benchmark for LLMs:2024-11-04, 18:48:44 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 18:48:44 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 18:54:57 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 18:54:57 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 18:54:57 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 14 : DONE
+INFO:Benchmark suite:2024-11-04, 18:54:57 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 18
+INFO:Benchmark for LLMs:2024-11-04, 18:54:57 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 18:54:57 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 19:01:40 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 19:01:45 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 19:01:45 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 19:01:45 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 18 : DONE
+INFO:Benchmark suite:2024-11-04, 19:01:45 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 22
+INFO:Benchmark for LLMs:2024-11-04, 19:01:45 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 19:01:45 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 19:08:34 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 19:08:39 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 19:08:39 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 19:08:39 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 22 : DONE
+INFO:Benchmark suite:2024-11-04, 19:08:39 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 26
+INFO:Benchmark for LLMs:2024-11-04, 19:08:39 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 19:08:39 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 19:14:50 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 19:16:35 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 19:16:35 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 19:16:35 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 26 : DONE
+INFO:Benchmark suite:2024-11-04, 19:16:35 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 30
+INFO:Benchmark for LLMs:2024-11-04, 19:16:35 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 19:16:35 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 19:22:46 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 19:25:01 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 19:25:01 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 19:25:01 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 30 : DONE
+INFO:Benchmark suite:2024-11-04, 19:25:01 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 34
+INFO:Benchmark for LLMs:2024-11-04, 19:25:01 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 19:25:01 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 19:31:11 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 19:33:55 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 19:33:55 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 19:33:55 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 34 : DONE
+INFO:Benchmark suite:2024-11-04, 19:33:55 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 38
+INFO:Benchmark for LLMs:2024-11-04, 19:33:55 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 19:33:55 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 19:40:05 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 19:43:19 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 19:43:19 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 19:43:19 Benchmarks for the generation speed, input length : 4096, output_length : 16, nb_requests : 38 : DONE
+INFO:Benchmark suite:2024-11-04, 19:43:19 Benchmarks for the generation speed, input length : 4096, output_length : 16 : DONE
+INFO:Benchmark suite:2024-11-04, 19:43:19 Beginning the benchmarks for the generation speed, input length : 4096, output_length : 128
+INFO:Benchmark suite:2024-11-04, 19:43:19 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 1
+INFO:Benchmark for LLMs:2024-11-04, 19:43:19 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 19:43:19 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 19:52:02 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 19:52:02 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 19:52:02 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 1 : DONE
+INFO:Benchmark suite:2024-11-04, 19:52:02 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 2
+INFO:Benchmark for LLMs:2024-11-04, 19:52:02 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 19:52:02 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 19:58:19 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 19:58:19 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 19:58:19 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 2 : DONE
+INFO:Benchmark suite:2024-11-04, 19:58:19 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 3
+INFO:Benchmark for LLMs:2024-11-04, 19:58:19 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 19:58:19 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 20:03:58 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 20:03:58 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 20:03:58 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 3 : DONE
+INFO:Benchmark suite:2024-11-04, 20:03:58 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 4
+INFO:Benchmark for LLMs:2024-11-04, 20:03:58 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 20:03:58 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 20:09:52 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 20:09:52 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 20:09:52 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 4 : DONE
+INFO:Benchmark suite:2024-11-04, 20:09:52 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 6
+INFO:Benchmark for LLMs:2024-11-04, 20:09:52 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 20:09:52 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 20:15:39 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 20:15:39 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 20:15:39 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 6 : DONE
+INFO:Benchmark suite:2024-11-04, 20:15:39 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 8
+INFO:Benchmark for LLMs:2024-11-04, 20:15:39 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 20:15:39 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 20:21:45 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 20:21:45 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 20:21:45 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 8 : DONE
+INFO:Benchmark suite:2024-11-04, 20:21:45 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 10
+INFO:Benchmark for LLMs:2024-11-04, 20:21:45 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 20:21:45 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 20:28:07 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 20:28:07 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 20:28:07 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 10 : DONE
+INFO:Benchmark suite:2024-11-04, 20:28:07 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 14
+INFO:Benchmark for LLMs:2024-11-04, 20:28:07 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 20:28:07 Beginning the requests to the completions endpoint
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-8166720' coro=<get_live_metrics() done, defined at /opt/venv/lib/python3.11/site-packages/benchmark_llm_serving/utils_metrics.py:29> exception=ClientOSError(104, 'Connection reset by peer')>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/asyncio/selector_events.py", line 999, in _read_ready__data_received
+    data = self._sock.recv(self.max_size)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/venv/lib/python3.11/site-packages/benchmark_llm_serving/utils_metrics.py", line 41, in get_live_metrics
+    async with session.get(url=metrics_url) as response:
+  File "/opt/venv/lib/python3.11/site-packages/aiohttp/client.py", line 1197, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.11/site-packages/aiohttp/client.py", line 608, in _request
+    await resp.start(conn)
+  File "/opt/venv/lib/python3.11/site-packages/aiohttp/client_reqrep.py", line 976, in start
+    message, payload = await protocol.read()  # type: ignore[union-attr]
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.11/site-packages/aiohttp/streams.py", line 640, in read
+    await self._waiter
+aiohttp.client_exceptions.ClientOSError: [Errno 104] Connection reset by peer
+INFO:Benchmark for LLMs:2024-11-04, 20:34:25 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 20:34:25 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 20:34:25 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 14 : DONE
+INFO:Benchmark suite:2024-11-04, 20:34:25 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 18
+INFO:Benchmark for LLMs:2024-11-04, 20:34:25 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 20:34:25 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 20:40:58 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 20:40:58 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 20:40:58 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 18 : DONE
+INFO:Benchmark suite:2024-11-04, 20:40:58 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 22
+INFO:Benchmark for LLMs:2024-11-04, 20:40:58 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 20:40:59 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 20:48:35 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 20:48:45 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 20:48:45 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 20:48:45 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 22 : DONE
+INFO:Benchmark suite:2024-11-04, 20:48:45 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 26
+INFO:Benchmark for LLMs:2024-11-04, 20:48:45 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 20:48:45 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 20:55:59 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 20:56:04 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 20:56:04 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 20:56:04 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 26 : DONE
+INFO:Benchmark suite:2024-11-04, 20:56:04 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 30
+INFO:Benchmark for LLMs:2024-11-04, 20:56:04 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 20:56:04 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 21:03:39 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 21:03:49 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 21:03:49 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 21:03:49 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 30 : DONE
+INFO:Benchmark suite:2024-11-04, 21:03:49 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 34
+INFO:Benchmark for LLMs:2024-11-04, 21:03:49 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 21:03:49 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 21:11:52 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 21:12:02 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 21:12:02 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 21:12:02 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 34 : DONE
+INFO:Benchmark suite:2024-11-04, 21:12:02 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 38
+INFO:Benchmark for LLMs:2024-11-04, 21:12:02 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 21:12:02 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 21:18:53 100 queries have been completed
+INFO:Benchmark for LLMs:2024-11-04, 21:20:47 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 21:20:47 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 21:20:47 Benchmarks for the generation speed, input length : 4096, output_length : 128, nb_requests : 38 : DONE
+INFO:Benchmark suite:2024-11-04, 21:20:47 Benchmarks for the generation speed, input length : 4096, output_length : 128 : DONE
+INFO:Benchmark suite:2024-11-04, 21:20:47 Beginning the benchmarks for the generation speed, input length : 4096, output_length : 1024
+INFO:Benchmark suite:2024-11-04, 21:20:47 Benchmarks for the generation speed, input length : 4096, output_length : 1024, nb_requests : 1
+INFO:Benchmark for LLMs:2024-11-04, 21:20:47 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 21:20:47 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 22:04:35 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 22:04:35 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 22:04:36 Benchmarks for the generation speed, input length : 4096, output_length : 1024, nb_requests : 1 : DONE
+INFO:Benchmark suite:2024-11-04, 22:04:36 Benchmarks for the generation speed, input length : 4096, output_length : 1024, nb_requests : 2
+INFO:Benchmark for LLMs:2024-11-04, 22:04:36 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 22:04:36 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 22:29:13 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 22:29:13 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 22:29:13 Benchmarks for the generation speed, input length : 4096, output_length : 1024, nb_requests : 2 : DONE
+INFO:Benchmark suite:2024-11-04, 22:29:13 Benchmarks for the generation speed, input length : 4096, output_length : 1024, nb_requests : 3
+INFO:Benchmark for LLMs:2024-11-04, 22:29:13 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 22:29:13 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 22:47:37 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 22:47:37 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 22:47:37 Benchmarks for the generation speed, input length : 4096, output_length : 1024, nb_requests : 3 : DONE
+INFO:Benchmark suite:2024-11-04, 22:47:37 Benchmarks for the generation speed, input length : 4096, output_length : 1024, nb_requests : 4
+INFO:Benchmark for LLMs:2024-11-04, 22:47:37 Loading the dataset
+INFO:Benchmark for LLMs:2024-11-04, 22:47:37 Beginning the requests to the completions endpoint
+INFO:Benchmark for LLMs:2024-11-04, 23:02:40 Requests to the completions endpoint done
+INFO:Benchmark for LLMs:2024-11-04, 23:02:40 Derived calculations done
+INFO:Benchmark suite:2024-11-04, 23:02:40 Benchmarks for the generation speed, input length : 4096, output_length : 1024, nb_requests : 4 : DONE
+INFO:Benchmark suite:2024-11-04, 23:02:40 Benchmarks for the generation speed, input length : 4096, output_length : 1024 : DONE
+INFO:Benchmark suite:2024-11-04, 23:02:40 Benchmarks for the generation speed : DONE
+INFO:Benchmark suite:2024-11-04, 23:02:40 Drawing graphs
+INFO:Making the graphs:2024-11-04, 23:02:40 Loading the results
+INFO:Making the graphs:2024-11-04, 23:02:41 Making prompt ingestion graph
+INFO:Making the graphs:2024-11-04, 23:02:41 Making speed generation graphs
+INFO:Making the graphs:2024-11-04, 23:02:44 Making kv cache profile graphs
+INFO:Making the graphs:2024-11-04, 23:02:46 Making total speed generation graph
+INFO:Making the graphs:2024-11-04, 23:02:46 Graphs done
+INFO:Benchmark suite:2024-11-04, 23:02:47 Drawing graphs : DONE
+INFO:Benchmark suite:2024-11-04, 23:02:47 Making readme
+INFO:Benchmark suite:2024-11-04, 23:02:48 Making readme : DONE
+INFO:Benchmark suite:2024-11-04, 23:02:48 Zipping raw_results folder
+INFO:Benchmark suite:2024-11-04, 23:02:48 Zipping raw_results folder : DONE
+INFO:Benchmark suite:2024-11-04, 23:02:48 Everything : DONE

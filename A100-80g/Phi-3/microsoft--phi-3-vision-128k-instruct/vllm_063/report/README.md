@@ -1,5 +1,5 @@
 
-Model card for Phi-3-vision-128k-instruct on H100
+Model card for Phi-3-vision-128k-instruct on A100-80g
 =================================================
 
 # Main metrics
@@ -167,4 +167,4 @@ The api from happy_vllm was launched using the following arguments :
 |scheduling_policy|fcfs|
 |disable_log_requests|False|
 |engine_use_ray|False|
-|gpu_name|H100|
+|gpu_name|A100-80g|

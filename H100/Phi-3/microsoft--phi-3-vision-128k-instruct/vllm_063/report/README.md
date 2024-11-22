@@ -9,8 +9,8 @@ The main metrics are summarized in the following table :
 
 |Metric|Value|
 | :---: | :---: |
-|Prompt ingestion speed|~22500 t/s |
-|Mean generation speed for 10 parallel requests with a prompt of 1024 tokens and 128 tokens generated|~21 t/s for each request|
+|Prompt ingestion speed|~41500 t/s |
+|Mean generation speed for 10 parallel requests with a prompt of 1024 tokens and 128 tokens generated|~77 t/s for each request|
 |Estimate of the max nb of tokens in KV cache|~150k tokens|
 
 # Total generation speed
@@ -48,7 +48,7 @@ The api from happy_vllm was launched using the following arguments :
 |max_queries|1000|
 |request_rate|0|
 |backend|happy_vllm|
-|suite_id|2024-11-20, 07:53:20|
+|suite_id|2024-11-21, 11:10:27|
 |model_name|Phi-3-vision-128k-instruct|
 |happy_vllm_version|1.1.10|
 |vllm_version|0.6.3.post1|

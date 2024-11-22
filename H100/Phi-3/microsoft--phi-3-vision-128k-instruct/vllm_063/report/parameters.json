@@ -4,7 +4,7 @@
     "max_queries": 1000,
     "request_rate": 0,
     "backend": "happy_vllm",
-    "suite_id": "2024-11-20, 07:53:20",
+    "suite_id": "2024-11-21, 11:10:27",
     "model_name": "Phi-3-vision-128k-instruct",
     "happy_vllm_version": "1.1.10",
     "vllm_version": "0.6.3.post1",

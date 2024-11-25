@@ -4,7 +4,7 @@
     "max_queries": 1000,
     "request_rate": 0,
     "backend": "happy_vllm",
-    "suite_id": "2024-11-19, 10:00:48",
+    "suite_id": "2024-11-22, 09:54:19",
     "model_name": "Phi-3-vision-128k-instruct",
     "happy_vllm_version": "1.1.10",
     "vllm_version": "0.6.3.post1",
@@ -129,5 +129,5 @@
     "scheduling_policy": "fcfs",
     "disable_log_requests": false,
     "engine_use_ray": false,
-    "gpu_name": "H100"
+    "gpu_name": "A100-80g"
 }
